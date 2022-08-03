@@ -1,0 +1,73 @@
+/* ------- nav css ------------ */
+nav {
+  box-shadow: 10px 0px 10px grey;
+}
+
+/* --------- hero -------------- */
+
+.hero {
+  margin-top: 50px;
+}
+
+.hero .judul1 {
+  color: orange;
+  font-weight: bold;
+  width: 50px;
+}
+
+.sub-judul {
+  color: navy;
+}
+
+.hero a .btn-judul {
+  padding: 5px 15px;
+  border: 1px solid sienna;
+  border-radius: 10px;
+  background-color: sienna;
+  color: white;
+  font-weight: bold;
+}
+
+.hero a .btn-judul:hover {
+  border: 1px solid orange;
+  background-color: white;
+  color: orange;
+}
+
+.hero .carousel {
+  width: 80%;
+}
+
+.hero .carousel .carousel-inner {
+  border-radius: 10px 10px 10px 10px;
+}
+
+/* --------- products ------------- */
+.products {
+  margin-top: 50px;
+}
+
+.card {
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  border: none;
+  box-shadow: 10px 10px 10px #333;
+}
+
+.faq {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.faq h1 {
+  margin-top: 100px;
+}
+
+section {
+  min-height: 420px;
+}
+
+footer {
+  min-height: 50px;
+  padding-top: 12px;
+}
